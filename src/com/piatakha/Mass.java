@@ -11,7 +11,7 @@ public class Mass {
 		int plus = sc.nextInt();
 		System.out.println("Введите количество повторений в строке: ");
 		int stroka = sc.nextInt();
-		System.out.println("Введите количество строк: ");
+		System.out.println("Введите количество стро: ");
 		int stolb = sc.nextInt();
 
 		for (int c = 0; c < stolb; c++) {
